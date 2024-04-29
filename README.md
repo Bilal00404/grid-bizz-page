@@ -18,7 +18,7 @@ The following technologies were used to build this project:
 ## Live Demo
 
 You can view a live demo of the project here:
-[Grid Bizz Page on Netlify](https://grid-bizz-page.netlify.app/)
+[Grid Bizz Page](https://grid-bizz-page.netlify.app/)
 
 
 ## Screenshots
